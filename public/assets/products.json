@@ -1,0 +1,49 @@
+{
+	"brands": {
+		"duration": [
+			{
+				"id": 1,
+				"name": "Duration Exterior Acrylic Latex",
+				"image": "/images/duration.jpg",
+				"price": 92.69,
+				"salesNumber": "6504-05681",
+				"productNumber": "K32W00251",
+				"container": {
+					"size": "1 Gallon",
+					"sheen": "Flat",
+					"base": "Extra White"
+				}
+			}
+		],
+		"emerald": [
+			{
+				"id": 2,
+				"name": "Emerald Interior Acrylic Latex Paint",
+				"image": "/images/emerald.jpg",
+				"price": 65.79,
+				"salesNumber": "6510-16925",
+				"productNumber": "K35W00451",
+				"container": {
+					"size": "1 Gallon",
+					"sheen": "Flat",
+					"base": "Extra White"
+				}
+			}
+		],
+		"woodscapes": [
+			{
+				"id": 3,
+				"name": "WoodScapes Exterior Acrylic Solid Color House Stain",
+				"image": "/images/woodscapes.jpg",
+				"price": 348.7,
+				"salesNumber": "6403-33555",
+				"productNumber": "A15T00054",
+				"container": {
+					"size": "5-gallon",
+					"sheen": "Flat",
+					"base": "Ultradeep Base"
+				}
+			}
+		]
+	}
+}
