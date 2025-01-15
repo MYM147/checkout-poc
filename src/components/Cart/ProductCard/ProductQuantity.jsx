@@ -11,6 +11,10 @@ const ProductQuantity = ({ onChange, price, quantity, onRemove }) => {
 		setTotalPrice(numberOfItems * price);
 	}, [numberOfItems, price]);
 
+	useEffect(() => {
+		setNumberOfItems(quantity);
+	}, [quantity]);
+
 	const handleQuantityChange = (newQuantity) => {
 		setNumberOfItems(newQuantity);
 		onChange(newQuantity);
