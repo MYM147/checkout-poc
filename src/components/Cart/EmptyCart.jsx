@@ -13,7 +13,7 @@ const EmptyCart = () => {
 						<span className='swdc-font-bold'>Mentor #701575</span>{' '}
 						<Button
 							variant='text'
-							className='swdc-text-[#0069ae] hover:swdc-text-[#336699] swdc-capitalize'>
+							className='swdc-text-[#0069ae] hover:swdc-text-[#336699] hover:swdc-bg-transparent swdc-capitalize'>
 							Change Store
 						</Button>
 					</p>
